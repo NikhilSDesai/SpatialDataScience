@@ -1,4 +1,4 @@
-# Identifying Patterns of Household Energy Consumption in the UK
+# Identifying Patterns of Household Energy Consumption in England and Wales
 
 This repo contains the analysis for the CASA0006 Final Assignment, Data Science for Spatial Systems. This Project aims to answer the following two research questions: 
 
